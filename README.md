@@ -11,9 +11,14 @@ The Tableau analysis focuses on:
 - Electric range and eligibility for clean alternative fuel incentives
 
 ```
+Electric-Vehicle-Analysis/
+├── README.md
+│
 ├── Electric_Vehicle_Population_Data_Electric_Vehicle_Population_Data.csv
-├── HW_Assignment_Final.pptx
-└── README.md
+│
+├── Electric Vehicle Analysis (Tableau).pptx
+|
+└──  Electric Vehicle Analysis.zip (Tableau workbook files are included inside the ZIP due to large size)
 ```
 
 ## Dataset
