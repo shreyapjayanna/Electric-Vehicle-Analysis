@@ -18,7 +18,7 @@ Electric-Vehicle-Analysis/
 │
 ├── Electric Vehicle Analysis (Tableau).pptx
 |
-└──  Electric Vehicle Analysis.zip (Tableau workbook files are included inside the ZIP due to large size)
+└── Electric Vehicle Analysis.zip (Tableau workbook files are included inside the ZIP due to large size)
 ```
 
 ## Dataset
